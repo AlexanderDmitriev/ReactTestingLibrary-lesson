@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+        <h1>Hello</h1>
+        <button>click</button>
+        <input type="text" placeholder="input"></input>
+      </div>
     </div>
   );
 }
